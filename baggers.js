@@ -2482,7 +2482,7 @@ var data = {
     {
       "since": "2013-05-15",
       "name": "Benjamin Moitié",
-      "bio": "Coach Agile et Kanban chez Xebia",
+      "bio": "Coach Agile @ Deezer",
       "picture": "https://en.gravatar.com/userimage/49452226/05626824309fa84863021ac5224a86b3.jpg",
       "websites": [
         {
