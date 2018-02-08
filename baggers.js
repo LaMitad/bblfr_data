@@ -2480,64 +2480,6 @@ var data = {
       }
     },
     {
-      "since": "2013-05-15",
-      "name": "Benjamin Moitié",
-      "bio": "Coach Agile et Kanban chez Xebia",
-      "picture": "https://en.gravatar.com/userimage/49452226/05626824309fa84863021ac5224a86b3.jpg",
-      "websites": [
-        {
-          "name": "Web",
-          "url": "http://blog.xebia.fr/author/bmoitie"
-        }
-      ],
-      "location": "Paris",
-      "sessions": [
-        {
-          "title": "Agile, qu'est ce que c'est?",
-          "abstract": "Présentation de l'agilité pour répondre à toutes vos interrogations",
-          "tags": [
-            "Agile",
-            "Lean Startup",
-            "Kanban"
-          ],
-          "lang": [
-            "fr"
-          ]
-        },
-        {
-          "title": "Kanban et le management visuel",
-          "abstract": "Comment mettre en place du management visuel et Pourquoi? Une présentation des règles de base et des principes avec beaucoup d’images",
-          "tags": [
-            "Agile",
-            "Lean Startup",
-            "Kanban"
-          ],
-          "lang": [
-            "fr"
-          ]
-        },
-        {
-          "title": "Penser un produit en mode Agile",
-          "abstract": "Du Lean Start Up, en passant par la création du backlog produit, un panorama de la création d'un produit en mode agile",
-          "tags": [
-            "Agile",
-            "Lean Startup",
-            "Kanban"
-          ],
-          "lang": [
-            "fr"
-          ]
-        }
-      ],
-      "cities": [
-        "Paris"
-      ],
-      "contacts": {
-        "twitter": "benjaminmoitie",
-        "mail": "benjamin.moitie@gmail.com"
-      }
-    },
-    {
       "since": "2013-05-19",
       "name": "Emilien Pecoul",
       "bio": "Développeur indépendant, évangéliste agile, développement Microsoft",
